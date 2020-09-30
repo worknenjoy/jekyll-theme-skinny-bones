@@ -11,6 +11,8 @@ feed:
 
 # Jekyll configuration
 
+destination: docs/
+
 sass:
   sass_dir: _sass
   style: compressed
