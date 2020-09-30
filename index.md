@@ -1,7 +1,9 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "O que temos"
+image: 
+  feature: dog-header.jpg
 ---
 
 <div class="tiles">

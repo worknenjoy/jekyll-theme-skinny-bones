@@ -1,0 +1,25 @@
+I"x<div class="tiles">
+
+	<article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="/pages/about/" title="Sobre o Canil Von Lemos" class="post-teaser"><img src="/images/luke-mckeown-JmtLeUYaBEU-unsplash.jpg" alt="teaser" itemprop="image" />
+    </a>
+  <p class="entry-date date published"><time datetime="2020-09-30" itemprop="datePublished">September 30, 2020</time></p>
+  <h2 class="post-title" itemprop="name"><a href="/pages/about/">Sobre o Canil Von Lemos</a></h2>
+  <p class="post-excerpt" itemprop="description">O canil Von Lemos é excelência
+</p>
+</article><!-- /.tile -->
+
+
+	<article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="/media/zeus/" title="Zeus" class="post-teaser"><img src="/images/pope-moysuh-_lJHFKpWDAU-unsplash.jpg" alt="teaser" itemprop="image" />
+    </a>
+  <p class="entry-date date published"><time datetime="2020-09-30" itemprop="datePublished">September 30, 2020</time></p>
+  <h2 class="post-title" itemprop="name"><a href="/media/zeus/">Zeus</a></h2>
+  <p class="post-excerpt" itemprop="description">
+</p>
+</article><!-- /.tile -->
+
+
+</div>
+<!-- /.tiles -->
+:ET

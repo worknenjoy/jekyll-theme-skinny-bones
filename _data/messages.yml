@@ -15,6 +15,17 @@ locales:
   en_UK:
     <<: *DEFAULT_EN     # use English translation for en_UK
 
+  # English translation
+  # -------------------
+  en: &DEFAULT_BR
+    overview: "Geral"
+    toc: "Conteúdo"
+    written_by: "Escrito por"
+    updated: "Atualizado em"
+    share: "Compartilhe no"
+  pt_BR:
+    <<: *DEFAULT_EN     # use English translation for en_US
+  
   # German translation
   # -------------------
   de: &DEFAULT_DE

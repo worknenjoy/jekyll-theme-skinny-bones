@@ -1,6 +1,11 @@
 # Site navigation links
 
-- title:
-  url:
+- title: Sobre o canil
+  url: /pages/about
   excerpt:
-  image:
+  image: luke-mckeown-JmtLeUYaBEU-unsplash.jpg
+
+- title: Cães
+  url: /media/zeus
+  excerpt:
+  image: rebecca-campbell-w40Eig2e4Qg-unsplash.jpg
